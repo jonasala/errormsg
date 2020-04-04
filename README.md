@@ -1,0 +1,2 @@
+# errormsg
+Multilanguage error message
